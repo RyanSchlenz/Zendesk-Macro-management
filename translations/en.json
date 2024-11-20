@@ -1,0 +1,23 @@
+{
+    "app": {
+      "name": "Zendesk Macro Management Extension",
+      "short_description": "Manage Zendesk Macros.",
+      "long_description": "An integration for managing Zendesk Macros.",
+      "installation_instructions": "To install the Zendesk Macro Management Extension, follow the instructions in the README file provided with the app. Ensure that your Zendesk account has the necessary permissions to modify data. After installation, configure the app by entering your admin email, Zendesk subdomain, and API token."
+    },
+    "parameters": {
+      "email": {
+        "label": "Email",
+        "helpText": "Enter the admin email address for integration."
+      },
+      "subdomain": {
+        "label": "Subdomain",
+        "helpText": "Enter your Zendesk subdomain (e.g., 'yourcompany')."
+      },
+      "api_token": {
+        "label": "API Token",
+        "helpText": "Provide the API token for authenticating requests."
+      }
+    }
+  }
+  

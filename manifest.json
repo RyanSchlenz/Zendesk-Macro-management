@@ -1,0 +1,14 @@
+{
+    "name": "Zendesk Macro Management Extension",
+    "author": {
+      "name": "Ryan Schlenz",
+    "email": "jaschlenz@gmail.com",
+    "url": "https://github.com/RyanSchlenz"
+    },
+    "description": "An integration for managing Zendesk Macros.",
+    "marketingOnly": true,
+    "private": false,
+    "defaultLocale": "en",
+    "installation_instructions": "Follow the README file for setup and usage instructions."
+  }
+  
