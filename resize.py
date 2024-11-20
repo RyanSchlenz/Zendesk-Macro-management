@@ -4,8 +4,7 @@ from PIL import Image
 screenshots = [
     "assets/screenshot-0.png",
     "assets/screenshot-1.png",
-    "assets/screenshot-2.png",
-    "assets/screenshot-3.png"
+    "assets/screenshot-2.png"
 ]
 
 # Resize each screenshot
